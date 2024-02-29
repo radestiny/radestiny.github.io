@@ -1,4 +1,5 @@
 ---
+cover: /assets/images/cover6.jpg
 icon: pen-to-square
 date: 2022-01-09
 category:
@@ -9,12 +10,6 @@ tag:
   - 圆
 ---
 
-# 樱桃
+# 数学
 
-## 标题 2
-
-这里是内容。
-
-### 标题 3
-
-这里是内容。
+## 对直到四次幂的二项式的可视化

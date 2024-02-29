@@ -2,47 +2,30 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here ======
+title: 主页
+heroImage: logo.jpg
+heroText: radestiny
 heroFullScreen: true
+tagline: 梦想变成现实，努力成就未来!
 projects:
-  - icon: project
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
+  - icon: 
+    name: GitHub
+    desc: 个人资料
+    link: https://github.com/radestiny
 
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+  - icon: 
+    name: 语雀
+    desc: 知识创作与分享工具
+    link: https://www.yuque.com/yangmengjie-iuff6
 
-  - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
+  - icon: 
+    name: JavaScript
+    desc: 基础知识
+    link: https://www.yuque.com/yangmengjie-iuff6/pwpzmu
+    
+  - icon: 
+    name: observable
+    desc: JS 绘画
+    link: https://observablehq.com/user/@yang-meng-jie
 
-  - icon: article
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
-
-  - icon: friend
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
-
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: custom item
-    desc: Detailed description of this custom item
-    link: https://link.to.your.friend
-
-footer: customize your footer text
----
-
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
+footer: 自定义你的页脚文字
