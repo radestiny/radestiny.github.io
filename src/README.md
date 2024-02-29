@@ -3,10 +3,9 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: logo.jpg
 heroText: radestiny
 heroFullScreen: true
-bgImage: logo.jpg
 tagline: 梦想变成现实，努力成就未来!
 projects:
   - icon: 
