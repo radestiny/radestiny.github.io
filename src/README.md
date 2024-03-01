@@ -2,8 +2,8 @@
 home: true
 layout: BlogHome
 icon: home
-title: 主页
-heroImage: logo.png
+title: radestiny
+heroImage: ymj.jpg
 heroText: radestiny
 heroFullScreen: true
 bgImage: logo.jpg

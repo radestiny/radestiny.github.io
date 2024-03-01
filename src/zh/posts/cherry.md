@@ -1,9 +1,9 @@
 ---
 cover: /assets/images/cover6.jpg
 icon: pen-to-square
-date: 2022-01-09
+date: 2024-02-29
 category:
-  - 樱桃
+  - 数学
 tag:
   - 红
   - 小

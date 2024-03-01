@@ -8,7 +8,7 @@ export default navbar([
     icon: "pen-to-square",
     prefix: "/zh/posts/",
     children: [
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
+      { text: "数学知识", icon: "pen-to-square", link: "cherry" },
       { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
       "tomato",
       "strawberry",
