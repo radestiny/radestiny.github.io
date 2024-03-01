@@ -6,7 +6,7 @@ title: radestiny
 heroImage: ymj.jpg
 heroText: radestiny
 heroFullScreen: true
-bgImage: logo.jpg
+bgImage: jmy.jpg
 tagline: 梦想变成现实，努力成就未来!
 projects:
   - icon: 
