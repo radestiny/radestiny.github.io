@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://github.com/radestiny",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "iconify",
 
   logo: "ymj.jpg",
 
@@ -206,5 +206,5 @@ export default hopeTheme({
     // },
   },
 },
-{ custom: true }
+// { custom: true }
 );

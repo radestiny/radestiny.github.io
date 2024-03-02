@@ -1,8 +1,14 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
 ---
 
-# Intro Page
+# 基本信息
 
-Place your introduction and profile here.
+- 性别: 男
+- 年龄: 18
+- 婚姻情况: 未婚
+- 单身: 是
+现居住：河北保定
+- 爱好: 编程、篮球、体育运动...
+
+性格比较开朗随和，热爱帮助他人，喜欢平时写一些开源项目。
