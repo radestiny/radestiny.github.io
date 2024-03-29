@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "ymj.jpg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/radestiny",
 
   docsDir: "src",
 
@@ -45,7 +45,7 @@ export default hopeTheme({
       },
 
       metaLocales: {
-        editLink: "Edit this page on GitHub",
+        editLink: "编辑此页",
       },
     },
 
@@ -57,7 +57,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
+      "/docs/demo/encrypt.html": ["1234"],
     },
   },
 

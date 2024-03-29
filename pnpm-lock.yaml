@@ -8,6 +8,9 @@ devDependencies:
   '@vuepress/bundler-vite':
     specifier: 2.0.0-rc.8
     version: 2.0.0-rc.8
+  reveal.js:
+    specifier: ^5.0.5
+    version: 5.0.5
   vue:
     specifier: ^3.4.16
     version: 3.4.21
@@ -16,7 +19,7 @@ devDependencies:
     version: 2.0.0-rc.8(@vuepress/bundler-vite@2.0.0-rc.8)(vue@3.4.21)
   vuepress-theme-hope:
     specifier: 2.0.0-rc.26
-    version: 2.0.0-rc.26(markdown-it@14.0.0)(vuepress@2.0.0-rc.8)
+    version: 2.0.0-rc.26(markdown-it@14.0.0)(reveal.js@5.0.5)(vuepress@2.0.0-rc.8)
 
 packages:
 
@@ -2199,6 +2202,11 @@ packages:
     engines: {iojs: '>=1.0.0', node: '>=0.10.0'}
     dev: true
 
+  /reveal.js@5.0.5:
+    resolution: {integrity: sha512-MPWPV/cRlkZhh72dAGYv/bUCr9ulwM2/ucCqiL/KN4tvhb6VvN49iwOyWHE08wppj8lMQXi2xbS3kyKgfyTYqg==}
+    engines: {node: '>=18.0.0'}
+    dev: true
+
   /rollup@4.12.0:
     resolution: {integrity: sha512-wz66wn4t1OHIJw3+XU7mJJQV/2NAfw5OAk6G6Hoo3zcvz/XOfQ52Vgi+AN4Uxoxi0KBBwk2g8zPrTDA4btSB/Q==}
     engines: {node: '>=18.0.0', npm: '>=8.0.0'}
@@ -2548,7 +2556,7 @@ packages:
       - typescript
     dev: true
 
-  /vuepress-plugin-md-enhance@2.0.0-rc.26(markdown-it@14.0.0)(vuepress@2.0.0-rc.8):
+  /vuepress-plugin-md-enhance@2.0.0-rc.26(markdown-it@14.0.0)(reveal.js@5.0.5)(vuepress@2.0.0-rc.8):
     resolution: {integrity: sha512-d/1f3jYA94B06fuFBqu3K9LUft9HJou10v/7tnd3YDOKI1Vr1I7V/us/ubAKyeq6+Zn4m51CVxrPw2OI6I+gCA==}
     engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -2626,6 +2634,7 @@ packages:
       '@vueuse/core': 10.9.0(vue@3.4.21)
       balloon-css: 1.2.0
       js-yaml: 4.1.0
+      reveal.js: 5.0.5
       vue: 3.4.21
       vuepress: 2.0.0-rc.8(@vuepress/bundler-vite@2.0.0-rc.8)(vue@3.4.21)
       vuepress-plugin-sass-palette: 2.0.0-rc.26(vuepress@2.0.0-rc.8)
@@ -2677,7 +2686,7 @@ packages:
       - typescript
     dev: true
 
-  /vuepress-theme-hope@2.0.0-rc.26(markdown-it@14.0.0)(vuepress@2.0.0-rc.8):
+  /vuepress-theme-hope@2.0.0-rc.26(markdown-it@14.0.0)(reveal.js@5.0.5)(vuepress@2.0.0-rc.8):
     resolution: {integrity: sha512-kg/371ZRLhwibmWjHSmiDGcENvq8EzF6zgJ5SoiGeZGh19/tI0dHnBDhYA0PhDRUzEy71HzmvpGAgZcoU42ttQ==}
     engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -2736,7 +2745,7 @@ packages:
       vuepress: 2.0.0-rc.8(@vuepress/bundler-vite@2.0.0-rc.8)(vue@3.4.21)
       vuepress-plugin-comment2: 2.0.0-rc.26(vuepress@2.0.0-rc.8)
       vuepress-plugin-components: 2.0.0-rc.26(vuepress@2.0.0-rc.8)
-      vuepress-plugin-md-enhance: 2.0.0-rc.26(markdown-it@14.0.0)(vuepress@2.0.0-rc.8)
+      vuepress-plugin-md-enhance: 2.0.0-rc.26(markdown-it@14.0.0)(reveal.js@5.0.5)(vuepress@2.0.0-rc.8)
       vuepress-plugin-sass-palette: 2.0.0-rc.26(vuepress@2.0.0-rc.8)
       vuepress-shared: 2.0.0-rc.26(vuepress@2.0.0-rc.8)
     transitivePeerDependencies:

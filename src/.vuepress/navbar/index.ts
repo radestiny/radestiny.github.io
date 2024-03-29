@@ -4,19 +4,25 @@ export default navbar([
   "/",
   "/demo/",
   {
-    text: "博文",
+    text: "笔记",
     icon: "pen-to-square",
-    prefix: "/zh/posts/",
+    prefix: "/docs/posts/",
     children: [
-      { text: "数学知识", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
+      { text: "数学", icon: "pen-to-square", link: "cherry" },
+      { text: "程序是怎么跑起来的", icon:"pen-to-square", link: "tomato" },
+    ],
+  },
+  {
+    text: "C 语言",
+    icon: "pen-to-square",
+    prefix: "/docs/posts/",
+    children: [
+      { text: "C 语言", icon: "pen-to-square", link: "Clanguage" },
     ],
   },
   {
     text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    icon: "pen-to-square",
+    link: "",
   },
 ]);

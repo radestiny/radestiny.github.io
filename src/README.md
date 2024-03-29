@@ -29,4 +29,4 @@ projects:
     desc: JS 绘画
     link: https://observablehq.com/user/@yang-meng-jie
 
-footer: 自定义你的页脚文字
+footer: 更多详情请访问"https://github.com/radestiny“｜ <a href="">关于网站</a>

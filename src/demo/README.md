@@ -1,9 +1,10 @@
 ---
-title: 主要功能与配置演示
+title: JavaScript
+cover: /assets/images/cover2.jpg
 index: false
 icon: laptop-code
-category:
-  - 使用指南
+date: 2024-02-29
 ---
 
-<Catalog />
+- [paper.js绘画集](https://observablehq.com/@yang-meng-ji3-ws)
+- []
