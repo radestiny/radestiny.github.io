@@ -1,7 +1,7 @@
 ---
 title: 笔记
 cover: /assets/images/jmy.jpg
-icon: pen-to-square
+icon: chat-typing-alt-outline
 date: 2020-02-29
 category:
   - 蔬菜

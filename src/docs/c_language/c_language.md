@@ -16,10 +16,11 @@ tag:
 - [数据类型](https://www.yuque.com/yangmengjie-iuff6/mtk5ug/lsov0wffizx8bn0y)
 # 排序
 - [冒泡](https://www.yuque.com/yangmengjie-iuff6/mtk5ug/ye97gsn89hlfrcgf)
+- [三个数排序](https://www.yuque.com/yangmengjie-iuff6/mtk5ug/ye97gsn89hlfrcgf)
 # 搜索
 - [二分查找](https://www.yuque.com/yangmengjie-iuff6/mtk5ug/suzah0n61membuey)
-# 递归和栈
-- [实现](https://www.yuque.com/yangmengjie-iuff6/mtk5ug/fs65veaw0k3pg6ef)
+# 数据结构
+- [递归和栈](https://www.yuque.com/yangmengjie-iuff6/mtk5ug/fs65veaw0k3pg6ef)
 # 三种循环
 - [流程图](https://www.yuque.com/yangmengjie-iuff6/mtk5ug/br0zk4gg73s6uzz2)
 

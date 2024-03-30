@@ -15,9 +15,17 @@ export default navbar([
   {
     text: "C 语言",
     icon: "pen-to-square",
-    prefix: "/docs/posts/",
+    prefix: "/docs/c_language/",
     children: [
-      { text: "C 语言", icon: "pen-to-square", link: "Clanguage" },
+      { text: "C 语言", icon: "pen-to-square", link: "c_language" },
+    ],
+  },
+  {
+    text: "随笔",
+    icon: "pen-to-square",
+    prefix: "/docs/note/",
+    children: [
+      { text: "随笔", icon: "pen-to-square", link: "essay" },
     ],
   },
   {

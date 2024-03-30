@@ -1,7 +1,7 @@
 ---
 home: true
 layout: BlogHome
-icon: home
+icon: ic:baseline-home
 title: 主页
 heroImage: ymj.jpg
 heroText: radestiny

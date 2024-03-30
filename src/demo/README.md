@@ -2,7 +2,7 @@
 title: JavaScript
 cover: /assets/images/cover2.jpg
 index: false
-icon: laptop-code
+icon: vscode-icons:file-type-js-official
 date: 2024-02-29
 ---
 
